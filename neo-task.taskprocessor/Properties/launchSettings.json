@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "neo-task.taskprocessor": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
